@@ -1,0 +1,5 @@
+# Rock Gallery
+
+Rock Gallery is a quiet, archival website that feels like standing before a natural-history museum display case rather than browsing an online catalogue. Specimens are the focus: photographed consistently in neutral light, arranged across shelves with intentional spacing, and accompanied by small cream-paper labels containing concise scientific context. Warm whites, soft greys, glass, aged paper, and natural stone colours create a restrained, institutional atmosphere; typography, navigation, and controls remain modest and functional.
+
+Browsing should feel like walking through museum wings and lingering at a cabinet, not searching a product grid. Shelves combine dramatic centrepieces, clusters of smaller finds, and generous empty space to create a natural rhythm without clutter. Visitors can explore exhibitions such as igneous rocks, minerals, fossils, and meteorites, then discover each specimen's classification, origin, age, composition, formation, collection notes, and interesting facts. Motion is slow and subtle, rewarding close observation and making the collection feel patient, curious, and carefully catalogued.
